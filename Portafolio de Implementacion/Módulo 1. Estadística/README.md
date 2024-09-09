@@ -1,6 +1,6 @@
 # Actividades en clase
 
-- **Actividad 6. Distribuciones Muestrales y TCL** *(---.pdf)*
+- **Actividad 6. Distribuciones Muestrales y TCL** *(DistribucionesMuestrales.pdf)*
 - **Actividad 7. Intervalos de confianza** *(IntervalosConfianza.pdf)*
 - **Actividad 8. Pruebas de hipótesis** *(---.pdf)*
 - **Actividad 9. ANOVA** *(Anova.pdf)*
